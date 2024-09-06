@@ -11,7 +11,7 @@ This repository provides a Python-based solution for extracting International Ba
 - **Output Formats**: Extracted IBANs can be saved to CSV, Excel or JSON.
 
 ## Dependencies
-- Python 3.x
+- Python 3.9.13
 - Tesseract OCR
 - PDF handling library: pdftotext
 - Regular expression for IBAN pattern matching
